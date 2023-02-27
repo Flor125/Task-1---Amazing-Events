@@ -1,0 +1,11 @@
+
+  .carousel{
+    background-color: #94a9be;
+  }
+  .carousel-inner{
+    height: 60px;
+  }
+  .carousel-caption{
+    color: whitesmoke;
+    top: 50%;
+  }
