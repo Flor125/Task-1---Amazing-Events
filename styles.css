@@ -1,4 +1,16 @@
-
+@media screen and (max-width: 480px) {
+  .logo {
+    width: 9rem;
+    height: 2rem;
+  }
+  .checks {
+    display: flex;
+    flex-flow: row nowrap;
+    overflow-x: scroll;
+    margin-bottom: 1rem;
+  }
+}
+  
   .carousel{
     background-color: #94a9be;
   }
