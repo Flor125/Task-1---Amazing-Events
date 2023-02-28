@@ -11,6 +11,10 @@
   }
 }
   
+.nav-item{
+  font-style: italic;
+}
+
   .carousel{
     background-color: #94a9be;
   }
@@ -18,6 +22,22 @@
     height: 60px;
   }
   .carousel-caption{
-    color: whitesmoke;
+    color: rgb(207, 231, 238);
     top: 50%;
   }
+
+  .navbar-brand{
+    color: rgb(202, 13, 57);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+.word{
+  margin: 10px;
+  color: rgb(91, 151, 224);
+  font-style: oblique;
+}
+
+.thead-gray {
+  background-color: rgb(118, 236, 249);
+  color: rgb(0, 0, 0);
+}
